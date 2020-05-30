@@ -34,7 +34,7 @@ SECRET=my-secret-key
 npm start
 ```
 
-## To test
+### To testing
 ```
 npm run test[:watch]
 ```
